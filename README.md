@@ -1,9 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdallah Mohamed
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdallah Mohamed Mahmoud (A23CS0003)
 ========================================================================================================================================
 
-i this is my first year in university 2023 UTM, and I'm so excited to learn TONS of things and to make lots of friends on the way!
+Hello! this is my first year in university 2023 UTM, and I'm so excited to learn TONS of things and to make lots of friends on the way!
 
-* 🌍  I'm based in im originaly from egypt but i was born and raised in saudi
+* 🌍  i'm originaly from egypt but i was born and raised in saudi
 * ✉️  You can contact me at [abdullahjinx878@gmail.com](mailto:abdullahjinx878@gmail.com)
 * 🧠  I'm learning cybersecurity
 * ⚡  i talk more in english than i do in arabic....
